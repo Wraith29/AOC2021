@@ -1,5 +1,5 @@
 import strutils
-
+# this does not work
 proc part1(): int = 
     var
         allLines = readLines("day4/input.txt", 601)
